@@ -1,2 +1,2 @@
 # JS-basics
-This is my homework from SoftUni JS basics
+This is my homework tasks from SoftUni!
